@@ -1,1 +1,2 @@
 This is a redirect file
+This is a second line to test git commands
